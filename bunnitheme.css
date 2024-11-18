@@ -22,7 +22,7 @@
 	--font: 'Nunito';
 
 	/* top left corner text */
-	--corner-text: 'LilyPichu';
+	--corner-text: 'BUNNNIIIXO♡';
 
 	/* thickness of messages divider */
 	--divider-thickness: 3px;
@@ -34,11 +34,11 @@
 	--streaming-indicator: hsl(260, 50%, 55%); /* change to #593695 for default purple */
 
 	/* accent colors */
-	--accent-1: hsl(347, 50%, 65%); /* links */
+	--accent-1: hsl(225, 79%, 100%); /* links */
 	--accent-2: hsl(347, 50%, 60%); /* general unread/mention elements */
 	--accent-3: hsl(347, 50%, 55%); /* accent buttons */
 	--accent-4: hsl(347, 50%, 50%); /* accent buttons when hovered */
-	--accent-5: hsl(347, 50%, 45%); /* accent buttons when clicked */
+	--accent-5: hsl(0, 0%, 0%); /* accent buttons when clicked */
 	--mention: hsla(347, 50%, 45%, 0.1); /* mentions & mention messages */
 	--mention-hover: hsla(347, 50%, 45%, 0.05); /* mentions & mention messages when hovered */
 
